@@ -1,3 +1,9 @@
 # Boas vindas ao meu perfil 🖤
 
-![]https://tenor.com/pt-BR/view/gtr-r35-gif-24528730
+Meu nome é maycom
+
+Sou estudantes da Alura
+
+Estou me desenvolvendo em programações
+
+![](https://media.tenor.com/SPKNEtUe5XUAAAAM/gtr-r35.gif)
